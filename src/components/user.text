@@ -1,0 +1,33 @@
+user1 =
+{
+  "name":"mike",
+  "number":"9087654320",
+  "email":"mike@gmail.com",
+  "password":"mikebhai"
+}
+user2 =
+{
+  "name":"John",
+  "number":"9034123765",
+  "email":"johncena@gmail.com",
+  "password":"johncena"
+}
+user3 =
+{
+  "name":"Bhanu",
+  "number":"9078563412",
+  "email":"bhanu@gmail.com",
+  "password":"bhanurana"
+}
+user4 =
+{
+  "name":"Brock",
+  "number":"9078563413",
+  "email":"brock@gmail.com",
+  "password":"brocklesnar"
+}
+
+
+
+
+
